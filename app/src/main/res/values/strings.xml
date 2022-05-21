@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="main_image">main_image</string>
+    <string name="refresh">refresh</string>
+</resources>
